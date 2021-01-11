@@ -6,7 +6,8 @@ Sumber Data (CSV) : https://www.kaggle.com/gregorut/videogamesales
 
 ## Idiom
 ### Visualisasi 1
-![](Panel%20Visualization/10%20Penjualan%20Video%20Games%20Terlaris%20Secara%20Global.JPG)
+https://github.com/rezkysimanjuntak/Video-Games-Sales-Visualization/blob/main/Panel%20Visualization/10%20Penjualan%20Video%20Games%20Terlaris.JPG
+
 
 ### Visualisasi 2
 ![](Panel%20Visualization/Genre%20Video%20Games%20yang%20Paling%20Populer.JPG)
