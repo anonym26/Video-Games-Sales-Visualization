@@ -6,7 +6,7 @@ Sumber Data (CSV) : https://www.kaggle.com/gregorut/videogamesales
 
 ## Idiom
 ### Visualisasi 1
-https://github.com/rezkysimanjuntak/Video-Games-Sales-Visualization/blob/main/Panel%20Visualization/10%20Penjualan%20Video%20Games%20Terlaris.JPG
+!.[.].(Panel%20Visualization/10%20Penjualan%20Video%20Games%20Terlaris.JPG)
 
 
 ### Visualisasi 2
