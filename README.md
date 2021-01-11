@@ -5,4 +5,4 @@ Sumber Data (CSV) : https://www.kaggle.com/gregorut/videogamesales
 
 ## Idiom
 ### Visualisasi 1
-![](Panel%20Visualization/10%20Penjualan%20Video%20Games%20Terlaris%Secara%Global.jpg)
+![](Panel%20Visualization/10%20Penjualan%20Video%20Games%20Terlaris%20Secara%20Global.JPG)
